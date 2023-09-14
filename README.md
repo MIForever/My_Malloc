@@ -14,6 +14,10 @@ There is a file called Makefile. If you are using zsh, you can simply build it b
 ## Usage
 There is nothing to explain. It works just as that functions that were talked about above. You can test it by changing the inside of the main function in main.c file.
 ```
+make
+```
+After making, enter:
+```
 ./my_malloc
 ```
 ### The Core Team
