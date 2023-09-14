@@ -2,17 +2,17 @@
 ***
 
 ## Task
-The task is to create implementation of all the allocation related functions such as malloc, calloc, realloc and free.
+The task is to create an implementation of all the allocation-related functions such as malloc, calloc, realloc, and free.
 
 ## Description
-We searched it online, go through dozens of websites and of course watched some YouTube tutorials. It required a lot of knowledge.
+We searched it online, went through dozens of websites, and of course watched some YouTube tutorials. It required a lot of knowledge.
 It was so hard to realize how to write the main logic of the code.
 
 ## Installation
-There is a file called Makefile. If you are using zsh, you can simply build it by typing make command.
+There is a file called Makefile. If you are using ZSH, you can simply build it by typing the make command.
 
 ## Usage
-There is nothing to explain. It works just as that functions that were talked about above. You can test it by changing the inside of the main function in main.c file.
+There is nothing to explain. It works just as the functions that were talked about above. You can test it by changing the inside of the main function in main.c file.
 ```
 make
 ```
